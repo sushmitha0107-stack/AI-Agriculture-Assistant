@@ -1,0 +1,8 @@
+streamlit
+chromadb
+ollama
+pypdf
+scikit-learn
+numpy
+requests
+deep-translator
